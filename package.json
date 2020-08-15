@@ -4,6 +4,10 @@
     "description": "Nightly theme for Visual Studio Code",
     "version": "0.0.1",
     "publisher": "MohammadAliShahbazi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MohammadxAli/vsc-nightly-theme.git"
+    },
     "engines": {
         "vscode": "^1.48.0"
     },
