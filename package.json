@@ -1,0 +1,22 @@
+{
+    "name": "nightly-theme",
+    "displayName": "Nightly Theme",
+    "description": "Nightly theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "MohammadAliShahbazi",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightly Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightly Theme-color-theme.json"
+            }
+        ]
+    }
+}
