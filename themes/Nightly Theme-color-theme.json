@@ -73,7 +73,7 @@
 		
 		"button.background": "#4b4b97",
 		"button.hoverBackground": "#6464bbf6",
-
+		
 		"notifications.background": "#242447",
 		"notifications.foreground": "#bbbbff",
 		
@@ -97,13 +97,17 @@
 		"breadcrumb.foreground": "#bbbbff",
 
 		"settings.headerForeground":"#bbbbff",
-		
 
 		"quickInput.background":"#242447",
 		"quickInput.foreground": "#bbbbff",
 
 		"panelTitle.activeForeground": "#bbbbff",
-		
+
+		"statusBar.background": "#615eff",
+		"progressBar.background":"#bbbbff",
+
+		"debugToolBar.background":"#242447",
+		"debugToolBar.border":"#2a2a52"
 	},
 	"tokenColors": [
 		{
@@ -124,7 +128,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ffd6ed"
+				"foreground": "#ffc2ed"
 			}
 		},
 		{
@@ -154,7 +158,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#C792EA",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -185,7 +190,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07878"
+				"foreground": "#ff5959"
 			}
 		},
 		{
@@ -207,7 +212,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff82da"
 			}
 		},
 		{
@@ -217,7 +222,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff82da"
 			}
 		},
 		{
