@@ -2,14 +2,14 @@
     "name": "nightly-theme",
     "displayName": "Nightly Theme",
     "description": "Nightly theme for Visual Studio Code",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "MohammadAliShahbazi",
     "repository": {
         "type": "git",
         "url": "https://github.com/MohammadxAli/vsc-nightly-theme.git"
     },
     "engines": {
-        "vscode": "^1.48.0"
+        "vscode": "^1.4.0"
     },
     "categories": [
         "Themes"
