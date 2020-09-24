@@ -48,6 +48,7 @@
         "editorGroup.dropBackground": "#bbbbff5b",
         "editorGroupHeader.tabsBackground": "#000120",
         "editorGroupHeader.border": "#bbbbff1e",
+        "editorCodeLens.foreground":"#bbbbff",
 
         "tab.activeBackground": "#000120",
         "tab.activeForeground": "#d5d5ff",
@@ -75,6 +76,7 @@
         "list.activeSelectionForeground": "#e3e3ff",
         "list.activeSelectionBackground": "#bbbbff48",
         "list.focusBackground": "#9090ff3d",
+        "list.highlightForeground": "#ffaaf1",
 
         "tree.indentGuidesStroke": "#bbbbff63",
 
@@ -115,7 +117,11 @@
         "progressBar.background": "#bbbbff",
 
         "debugToolBar.background": "#242447",
-        "debugToolBar.border": "#2a2a52"
+        "debugToolBar.border": "#2a2a52",
+
+        "extensionButton.prominentForeground": "#ffffff",
+        "extensionButton.prominentBackground": "#4b4b97",
+        "extensionButton.prominentHoverBackground": "#6464bbf6"
     },
     "tokenColors": [
         {

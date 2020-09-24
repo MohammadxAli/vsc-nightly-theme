@@ -2,6 +2,14 @@
 
 All notable changes to the "nightly-theme" theme will be documented in this file.
 
+## [0.1.4] - Sep 25, 2020
+
+### Added
+
+-   Improved GitLens color
+-   Improved color for extension buttons
+-   Added list foreground highlight color to match theme colors
+
 ## [0.1.3] - Aug 18, 2020
 
 ### Added
