@@ -2,6 +2,14 @@
 
 All notable changes to the "nightly-theme" theme will be documented in this file.
 
+## [0.1.6] - Mar 07, 2021
+
+### Added
+
+-   Beautify JSON file
+-   Added custom color for quick input item focus (command pallette)
+-   Added custom color for suggestion selected item color
+
 ## [0.1.4] - Sep 25, 2020
 
 ### Added

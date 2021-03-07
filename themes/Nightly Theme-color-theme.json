@@ -33,6 +33,7 @@
         "editor.selectionHighlightBackground": "#bbbbff36",
         "editor.findMatchHighlightBackground": "#c1b0ff8c",
         "editor.findMatchBackground": "#a085ff69",
+        "editorSuggestWidget.selectedBackground": "#bbbbff36",
 
         "editorCursor.foreground": "#d3d3ff",
 
@@ -48,7 +49,7 @@
         "editorGroup.dropBackground": "#bbbbff5b",
         "editorGroupHeader.tabsBackground": "#000120",
         "editorGroupHeader.border": "#bbbbff1e",
-        "editorCodeLens.foreground":"#bbbbff",
+        "editorCodeLens.foreground": "#bbbbff",
 
         "tab.activeBackground": "#000120",
         "tab.activeForeground": "#d5d5ff",
@@ -109,6 +110,7 @@
 
         "quickInput.background": "#242447",
         "quickInput.foreground": "#bbbbff",
+        "quickInput.list.focusBackground": "#4a4a86",
 
         "panelTitle.activeForeground": "#bbbbff",
 
@@ -183,7 +185,11 @@
         },
         {
             "name": "Tag",
-            "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
+            "scope": [
+                "entity.name.tag",
+                "meta.tag.sgml",
+                "markup.deleted.git_gutter"
+            ],
             "settings": {
                 "foreground": "#ff5959"
             }
@@ -285,7 +291,11 @@
         },
         {
             "name": "Sub-methods",
-            "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
+            "scope": [
+                "entity.name.module.js",
+                "variable.import.parameter.js",
+                "variable.other.class.js"
+            ],
             "settings": {
                 "foreground": "#FF5370"
             }
@@ -308,7 +318,10 @@
         },
         {
             "name": "meta.method.js",
-            "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
+            "scope": [
+                "meta.class-method.js entity.name.function.js",
+                "variable.function.constructor"
+            ],
             "settings": {
                 "foreground": "#82AAFF"
             }
@@ -389,7 +402,10 @@
         },
         {
             "name": "Decorators",
-            "scope": ["tag.decorator.js entity.name.tag.js", "tag.decorator.js punctuation.definition.tag.js"],
+            "scope": [
+                "tag.decorator.js entity.name.tag.js",
+                "tag.decorator.js punctuation.definition.tag.js"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#82AAFF"
@@ -397,7 +413,9 @@
         },
         {
             "name": "ES7 Bind Operator",
-            "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
+            "scope": [
+                "source.js constant.other.object.key.js string.unquoted.label.js"
+            ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#FF5370"
@@ -405,7 +423,9 @@
         },
         {
             "name": "JSON Key - Level 0",
-            "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
+            "scope": [
+                "source.json meta.structure.dictionary.json support.type.property-name.json"
+            ],
             "settings": {
                 "foreground": "#C792EA"
             }
@@ -484,7 +504,10 @@
         },
         {
             "name": "Markdown - Plain",
-            "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
+            "scope": [
+                "text.html.markdown",
+                "punctuation.definition.list_item.markdown"
+            ],
             "settings": {
                 "foreground": "#EEFFFF"
             }
@@ -498,7 +521,9 @@
         },
         {
             "name": "Markdown - Markup Raw Inline Punctuation",
-            "scope": ["text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"],
+            "scope": [
+                "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
+            ],
             "settings": {
                 "foreground": "#65737E"
             }
@@ -555,7 +580,9 @@
         },
         {
             "name": "Markdown - Blockquote",
-            "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
+            "scope": [
+                "markup.quote punctuation.definition.blockquote.markdown"
+            ],
             "settings": {
                 "foreground": "#65737E"
             }
