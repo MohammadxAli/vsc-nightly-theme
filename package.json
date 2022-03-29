@@ -4,7 +4,7 @@
     "description": "Nightly theme for Visual Studio Code",
     "icon": "logo-128x128.png",
     "publisher": "MohammadAliShahbazi",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "repository": {
         "type": "git",
         "url": "https://github.com/MohammadxAli/vsc-nightly-theme.git"

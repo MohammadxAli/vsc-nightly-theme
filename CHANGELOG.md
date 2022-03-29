@@ -2,6 +2,12 @@
 
 All notable changes to the "nightly-theme" theme will be documented in this file.
 
+## [0.1.7] - Mar 29, 2022
+
+### Added
+
+-   Updated readme to include screenshots
+
 ## [0.1.6] - Mar 07, 2021
 
 ### Added
